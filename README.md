@@ -1,6 +1,6 @@
 # Awesome Islam
 
-> بسم الله الرحمن الرحيم
+> bi-smi llāhi r-raḥmāni r-raḥīmi
 > A curated list of Islamic Resources for beginners and advanced learners!
 
 ## Introduction
