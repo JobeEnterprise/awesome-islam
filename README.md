@@ -70,14 +70,14 @@ Some of these links can fit in more than one category. To find what you're looki
 ## Seerah
 - [Shama'il of Imam Tirmidhi | The Sublime Characteristics of the Prophet SAW - ZamZamAcademy](https://www.youtube.com/playlist?list=PLTgDm4XwxaRLhfvntu9Ku0WlmSkkeKFHR) - `Youtube Playlist`
 - [The Sealed Nectar English - Safiur Rahman Mubarakpuri](https://archive.org/details/TheSealedNectar-Alhamdulillah-library.blogspot.in.pdf/page/n5/mode/2up) - `Book`
-- [Seerah - Biography of the Prophet Muhammad (pbuh/s.a.s) - Yasir Qadhi](https://www.youtube.com/playlist?list=PLC89682017B43845D) - `Youtube-Playlist`
-- [The Seerah of the Prophet Muhammed (Peace and Blessing Upon Him) - Shaykh Belal Assaad](https://www.youtube.com/playlist?list=PLOlaiHoIQfAgjZPZdk_RNUVFBlBSdzu4C) - `Youtube-Playlist`
-- [Life of the Prophet Muhammad ﷺ by Abu Hakeem Bilal Davis](https://www.youtube.com/playlist?list=UUXzM4UN3BmSK9dfk-qGpFLA) - `Youtube-Playlist`
+- [Seerah - Biography of the Prophet Muhammad (pbuh/s.a.s) - Yasir Qadhi](https://www.youtube.com/playlist?list=PLC89682017B43845D) - `Youtube Playlist`
+- [The Seerah of the Prophet Muhammed (Peace and Blessing Upon Him) - Shaykh Belal Assaad](https://www.youtube.com/playlist?list=PLOlaiHoIQfAgjZPZdk_RNUVFBlBSdzu4C) - `Youtube Playlist`
+- [Life of the Prophet Muhammad ﷺ by Abu Hakeem Bilal Davis](https://www.youtube.com/playlist?list=UUXzM4UN3BmSK9dfk-qGpFLA) - `Youtube Playlist`
 - [Part 1 of 2 | Life Of The Prophet Muhammad by Shaykh Hamza Yusuf](https://www.youtube.com/watch?v=2M2Ppbtrh6w) - `Youtube Video`
 - [Part 2 of 2 | Life Of The Prophet Muhammad by Shaykh Hamza Yusuf](https://www.youtube.com/watch?v=3FiaIXSCCc8) - `Youtube Video`
 - [The Life of the Best of Creation ﷺ - Shaykh Hamza Yusuf](https://deenstream.vhx.tv/qurrat-al-absar-shaykh-hamza-yusuf) - `Web series`
 - [As-Seerah An-Nabawiyyah - The Prophetic Biography By Taimiyyah Zubair](https://www.farhathashmi.com/english-section/as-seerah-an-nabawiyyah-the-prophetic-biography/) - `Audio Clips`
-- [Ramadan 2012 - Life of Muhammad ﷺ - Mufti Menk](https://www.youtube.com/playlist?list=PL91FA0E3B7837B214) - `Youtube-Playlist`
+- [Ramadan 2012 - Life of Muhammad ﷺ - Mufti Menk](https://www.youtube.com/playlist?list=PL91FA0E3B7837B214) - `Youtube Playlist`
 
 ## Hadith
 - [ An Introduction to Hadith - Dr. Jonathan Brown](https://www.youtube.com/watch?v=cPHyL18UcyA) - `Youtube Video`
@@ -104,20 +104,25 @@ Some of these links can fit in more than one category. To find what you're looki
 - [How to Pray? Step by Step Guide to Prayer | Mohammad AlNaqwi](https://www.youtube.com/watch?v=zalLv2NY98k) - `Youtube Video`
 - [Green Lane Masjid Youtube Channel](https://www.youtube.com/c/greenlanemasjid/search) - `Youtube Channel`
 - [Black & Noble - A Study of Important Black Figures in Islam - ILF Texas All Rights Reserved](https://www.youtube.com/watch?v=QLJFUiXEurU) - `Youtube Video`
-- [The Firsts | The Forerunners of Islam - Dr. Omar Suleiman](https://www.youtube.com/playlist?list=PLQ02IYL5pmhHFl7j6wPcFTZmlQvRhsejp) - `Youtube-Playlist` `Podcast`
-- [Paradigms of Leadership – Abdal Hakim Murad](https://www.youtube.com/playlist?list=PL5pbB3tC5zucaIlc9Fl1xkQNfEFQPp6NS) - `Youtube-Playlist`
-- [Story Of Abu Bakr Siddique (RadiAllahu anhu!) - Shaykh Hamza Yusuf](https://www.youtube.com/watch?v=Ycy4voo8Qmw)- `Youtube-Video`
-- [Yaqeen Institute](https://www.youtube.com/c/YaqeenInstituteforIslamicResearch/search) - `Youtube-Channel`
+- [The Firsts | The Forerunners of Islam - Dr. Omar Suleiman](https://www.youtube.com/playlist?list=PLQ02IYL5pmhHFl7j6wPcFTZmlQvRhsejp) - `Youtube Playlist` `Podcast`
+- [Paradigms of Leadership – Abdal Hakim Murad](https://www.youtube.com/playlist?list=PL5pbB3tC5zucaIlc9Fl1xkQNfEFQPp6NS) - `Youtube Playlist`
+- [Story Of Abu Bakr Siddique (RadiAllahu anhu!) - Shaykh Hamza Yusuf](https://www.youtube.com/watch?v=Ycy4voo8Qmw)- `Youtube Video`
+- [Yaqeen Institute](https://www.youtube.com/c/YaqeenInstituteforIslamicResearch/search) - `Youtube Channel`
 - [Omar TV Show](https://www.youtube.com/watch?v=poiBVJOvNzo&list=PLIvrRN8Vhjt3xg1efr8HKYMdrtC7Uy9sc) - Great way to get a sense of Islam `TV Series`
 - [Australian Islamic Library](https://www.australianislamiclibrary.org/history.html) - Great resource for a lot of things. `Book` `Media`
 - [The Imam | Ahmad bin Hanbal ENGLISH SUB](https://www.youtube.com/playlist?list=PL68O9o-uUu3NRbbuQZbqaMSP3Sevs36q-) - `TV Series`
-- [The Lives of Four Imams by Sh. Omar Suleiman](https://www.youtube.com/playlist?list=PLjehxxa7GZWCVtlumQZsc2TlZe-DM7EwF) - `Youtube-Playlist`
-- [Kaleem Allah S2 - English & French Subtitles - ATA Animation Studio](https://www.youtube.com/playlist?list=PLEbF07nYAB8Ih4flql8pRe7ign2WIhAIQ) - "The events of " Kaleem Allah " Moussa (Peace be upon him) series revolves around the life of the Prophet Moussa (Peace be upon him) From birth until drowned Pharaoh through the entry of Bani of Israel into Egypt and until they left Egypt and drowned Pharaoh and the miracles that were done by Moses peace be upon him. The Series consists of thirty episodes and the duration of each episode twenty minutes."  `Youtube-Playlist`
+- [The Lives of Four Imams by Sh. Omar Suleiman](https://www.youtube.com/playlist?list=PLjehxxa7GZWCVtlumQZsc2TlZe-DM7EwF) - `Youtube Playlist`
+- [Kaleem Allah S2 - English & French Subtitles - ATA Animation Studio](https://www.youtube.com/playlist?list=PLEbF07nYAB8Ih4flql8pRe7ign2WIhAIQ) - "The events of " Kaleem Allah " Moussa (Peace be upon him) series revolves around the life of the Prophet Moussa (Peace be upon him) From birth until drowned Pharaoh through the entry of Bani of Israel into Egypt and until they left Egypt and drowned Pharaoh and the miracles that were done by Moses peace be upon him. The Series consists of thirty episodes and the duration of each episode twenty minutes."  `Youtube Playlist`
 
 ## Needs Categorization
 - [The Muslim Marriage Guide](https://www.muslim-library.com/dl/books/English_The_Muslim_Marriage_Guide.pdf) - Helpful guide detailing a lot of things to do with married life. `PDF`
-- [Umrah Training](https://www.youtube.com/playlist?list=PLu2sJP0jOreU_EqIfwny2xXSR70xfQ2HU) - Covers the basics of doing Umrah as well as practical tips like what to pack and which documents to bring. `Youtube-Playlist`
+- [Umrah Training](https://www.youtube.com/playlist?list=PLu2sJP0jOreU_EqIfwny2xXSR70xfQ2HU) - Covers the basics of doing Umrah as well as practical tips like what to pack and which documents to bring. `Youtube Playlist`
 - [The Role of Sunnah and Classical Scholarship - Dr. Jonathan Brown](https://www.youtube.com/watch?v=FC6GK5ZroxM) - `Youtube Video`
-- [Belal Assaad - The Prophets Series](https://www.youtube.com/playlist?list=PLj7YXVmiq526Vzt-RsmTRLElyfrU742YY) - `Youtube-Playlist`
-- [The Stories of The Prophets by Shaykh Dr. Yasir Qadhi](https://www.youtube.com/playlist?list=PLYZxc42QNctXcCQZyZs48hAN90YJgnOnJ) - `Youtube-Playlist`
+- [Belal Assaad - The Prophets Series](https://www.youtube.com/playlist?list=PLj7YXVmiq526Vzt-RsmTRLElyfrU742YY) - `Youtube Playlist`
+- [The Stories of The Prophets by Shaykh Dr. Yasir Qadhi](https://www.youtube.com/playlist?list=PLYZxc42QNctXcCQZyZs48hAN90YJgnOnJ) - `Youtube Playlist`
 - [Stories of the Prophets - Ibn Kathir](https://archive.org/details/stories-of-prophets/mode/2up) - `Book`
+
+
+
+
+001
