@@ -1,7 +1,6 @@
 # Awesome Islam
 
-> bi-smi llāhi r-raḥmāni r-raḥīmi
-> 
+> بسم الله الرحمن الرحيم
 > A curated list of Islamic Resources for beginners and advanced learners!
 
 ## Introduction
@@ -10,6 +9,19 @@ Over the past month, I have tried to compile a list of links for those seeking k
 ## Keep in mind
 Some of these links can fit in more than one category. To find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
 
+---
+## To-do List
+- [ ] Add banner
+- [ ] Disclaimer about not own anything (copyright), Some of these descriptions have been copied from online sources
+- [ ] make dua for me
+- [ ] Future Goals Section
+- [ ] Add descriptions to each content
+- [ ] Find a way for the community to help:
+	- [ ] Descriptions
+	- [ ] More sources
+	- [ ] Cleaning up
+	- [ ] Reporting dead links
+---
 ## Contents
 - [Quran (The holy book of Islam)](#quran)
 	- [Tajweed](#tajweed)
