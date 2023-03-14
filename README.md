@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://github.com/JobeEnterprise/awesome-islam/blob/main/header.jpg" alt="Awesome">
+</div>
+Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saj Shafique</a> on <a href="https://unsplash.com/photos/-uEWfcV8DLg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 # Awesome Islam
 
 > bi-smi llāhi r-raḥmāni r-raḥīmi
@@ -10,19 +15,15 @@ Over the past month, I have tried to compile a list of links for those seeking k
 ## Keep in mind
 Some of these links can fit in more than one category. To find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
 
+## Disclaimer
+The links provided on this site are for informational purposes only. They are a collection of links to various religious texts and other materials created by other individuals. The descriptions provided next to these links are intended to provide context and guidance for readers, but they are not intended to be a substitute for reading the linked materials themselves. The descriptions may have been copied from other sources, and are provided here for convenience only. The owner of this site does not claim ownership of any of the linked materials or descriptions, and is not responsible for their content. The owner of this site cannot guarantee the accuracy or completeness of the information provided through these links. Users should exercise their own judgment when accessing and using these materials, and should be aware that they may be subject to copyright or other legal restrictions.
+
+#### Please note that some resources, like Youtube channels contain a treasure trove of many different resources, that aren't linked to here.
+
+
+
 ---
-## To-do List
-- [ ] Add banner
-- [ ] Disclaimer about not own anything (copyright), Some of these descriptions have been copied from online sources
-- [ ] make dua for me
-- [ ] Future Goals Section
-- [ ] Add descriptions to each content
-- [ ] Find a way for the community to help:
-	- [ ] Descriptions
-	- [ ] More sources
-	- [ ] Cleaning up
-	- [ ] Reporting dead links
----
+
 ## Contents
 - [Quran (The holy book of Islam)](#quran)
 	- [Tajweed](#tajweed)
@@ -66,6 +67,7 @@ Some of these links can fit in more than one category. To find what you're looki
 - [Quran: Why Arabic? - Nouman Ali Khan](https://www.youtube.com/watch?v=g7FcAy3KlbE) - `Youtube Video`
 - [The Importance of Arabic Language - Nouman Ali Khan](https://www.youtube.com/watch?v=VGMQtAfhC6M) - `Youtube Video`
 - [Why And How To Learn Arabic - Nouman Ali Khan - Bayyinah Institute](https://www.youtube.com/watch?v=eAE3BNkFqDk) - `Youtube Video`
+- [Arabic 101](https://www.youtube.com/@Arabic101/featured) :star2: - Arabic 101 will take you by the hand starting from the alphabet to the intermediate levels. You'll learn how to read, write, speak and even properly listen to Arabic. Through Tajweed lessons you'll also be able to read the Holy Quran properly, in no time. `Youtube Channel`
 
 ## Seerah
 - [Shama'il of Imam Tirmidhi | The Sublime Characteristics of the Prophet SAW - ZamZamAcademy](https://www.youtube.com/playlist?list=PLTgDm4XwxaRLhfvntu9Ku0WlmSkkeKFHR) - `Youtube Playlist`
@@ -97,7 +99,7 @@ Some of these links can fit in more than one category. To find what you're looki
 
 ## General Resources
 - [EmanChannelTV](https://www.youtube.com/c/EmanChannelTV/search) - `Youtube Channel`
-- [BayyinahTV](https://dream.bayyinahtv.com/) - If you are sort of trying to Quran on a daily basis, this can be a great place to connect with Quran for learning Arabic Grammar which will eventually open more doors of contemplation! ($112/year or free 1 year student membership, just reach out to them). `Video` `Audio`
+- [BayyinahTV](https://dream.bayyinahtv.com/) :star2: - If you are sort of trying to Quran on a daily basis, this can be a great place to connect with Quran for learning Arabic Grammar which will eventually open more doors of contemplation! ($112/year or free 1 year student membership, just reach out to them). `Video` `Audio`
 - [Google Drive with Misc. Resources](https://drive.google.com/drive/folders/1GNkwWjJB_nPBl_vCzyg9bpYf-II5sPAH) - `PDF`
 - [QuranReflect](https://quranreflect.com/) - Connecting with the Quran through other means. `Website`
 - [Tadabbur PDF](https://lifewithallah.com/wp-content/uploads/2022/03/Tadabbur-Reflecting-Upon-the-Quran-by-Life-With-Allah.pdf) - Wonderful short PDF explaining contemplation. `PDF`
@@ -113,6 +115,9 @@ Some of these links can fit in more than one category. To find what you're looki
 - [The Imam | Ahmad bin Hanbal ENGLISH SUB](https://www.youtube.com/playlist?list=PL68O9o-uUu3NRbbuQZbqaMSP3Sevs36q-) - `TV Series`
 - [The Lives of Four Imams by Sh. Omar Suleiman](https://www.youtube.com/playlist?list=PLjehxxa7GZWCVtlumQZsc2TlZe-DM7EwF) - `Youtube Playlist`
 - [Kaleem Allah S2 - English & French Subtitles - ATA Animation Studio](https://www.youtube.com/playlist?list=PLEbF07nYAB8Ih4flql8pRe7ign2WIhAIQ) - "The events of " Kaleem Allah " Moussa (Peace be upon him) series revolves around the life of the Prophet Moussa (Peace be upon him) From birth until drowned Pharaoh through the entry of Bani of Israel into Egypt and until they left Egypt and drowned Pharaoh and the miracles that were done by Moses peace be upon him. The Series consists of thirty episodes and the duration of each episode twenty minutes."  `Youtube Playlist`
+- [Blogging Theology](https://www.youtube.com/@BloggingTheology/videos) - A channel discussing comparative religion by Paul Williams. `Youtube Channel`
+- [SeekersGuidance](https://www.youtube.com/@seekersguidanceorg/videos) - `Youtube Channel`
+- [ATA Animation Studio](https://www.youtube.com/@ATAAnimationStudio/playlists) :star2: - Egyptian animation studio, with a lot of movies/shows about the Prophets life ﷺ , Moses A.S, Eisa A.S, Ibrahim A.S, and much more about other aspects. `Youtube Channel`
 
 ## Needs Categorization
 - [The Muslim Marriage Guide](https://www.muslim-library.com/dl/books/English_The_Muslim_Marriage_Guide.pdf) - Helpful guide detailing a lot of things to do with married life. `PDF`
@@ -123,6 +128,7 @@ Some of these links can fit in more than one category. To find what you're looki
 - [Stories of the Prophets - Ibn Kathir](https://archive.org/details/stories-of-prophets/mode/2up) - `Book`
 
 
+---
 
 
-001
+002
