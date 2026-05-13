@@ -44,6 +44,7 @@ The links provided on this site are for informational purposes only. They are a 
 - [Qur'an Recital - Shaykh Zakaullah Saleem](https://www.youtube.com/playlist?list=PLYRXQljU5MiIlQb5NL0z4EIrlbwlTGoqQ) - Improve through hearing a reciter/Sheikh. `Youtube Playlist`
 - [Connect with the Qur'an: A Practical Workshop on How to Read and Memorize](https://www.youtube.com/watch?v=BKdYbwxKndU) - `Youtube Video`
 - [Quranic.](https://www.getquranic.com/) - Quranic teaches the language of the Quran in a fun & interactive way. `iOS` `Android`
+- - [UmmeSaad](https://ummesaad.org) – Free Quran reader with Arabic text, Kanz-ul-Iman Urdu translation, English translation, 13+ languages, audio recitation, prayer times, and Qibla direction. `Web-App` `Android`
 
 ### Tajweed
 - [Learn Tajweed Easy Step by Step - Yasir Qadhi](https://www.youtube.com/playlist?list=PLSzUb0TgsIYsxT5mMj1KSFDXUEJ3psMCU) - `Youtube Playlist`
