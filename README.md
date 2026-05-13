@@ -102,6 +102,7 @@ The links provided on this site are for informational purposes only. They are a 
 - [BayyinahTV](https://dream.bayyinahtv.com/) :star2: - If you are sort of trying to Quran on a daily basis, this can be a great place to connect with Quran for learning Arabic Grammar which will eventually open more doors of contemplation! ($112/year or free 1 year student membership, just reach out to them). `Video` `Audio`
 - [Google Drive with Misc. Resources](https://drive.google.com/drive/folders/1GNkwWjJB_nPBl_vCzyg9bpYf-II5sPAH) - `PDF`
 - [QuranReflect](https://quranreflect.com/) - Connecting with the Quran through other means. `Website`
+- [Takbeer Time](https://takbeertime.com/) - Free, non-profit masjid directory and Android app for finding nearby masjids with crowdsourced Jumma, khutbah, iqamah, and jamat times. [Source](https://github.com/mjqazi/Jamat) [Android](https://play.google.com/store/apps/details?id=com.takbeertime.android) `Web-App` `Android`
 - [Tadabbur PDF](https://lifewithallah.com/wp-content/uploads/2022/03/Tadabbur-Reflecting-Upon-the-Quran-by-Life-With-Allah.pdf) - Wonderful short PDF explaining contemplation. `PDF`
 - [How to Pray? Step by Step Guide to Prayer | Mohammad AlNaqwi](https://www.youtube.com/watch?v=zalLv2NY98k) - `Youtube Video`
 - [Green Lane Masjid Youtube Channel](https://www.youtube.com/c/greenlanemasjid/search) - `Youtube Channel`
