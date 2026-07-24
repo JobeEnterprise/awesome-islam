@@ -36,6 +36,7 @@ The links provided on this site are for informational purposes only. They are a 
 
 ## Quran
 - [Al Quran (Tafsir & by Word)](https://gtaf.org/apps/quran/) - Quran app with Word by Word Translation, translations & tafsirs, and colour-coded tajweed, audio, corpus, khitmah planner. `iOS` `Android`
+- [Falah](https://falah.io/quran) – An open-source Islamic tools website with no ads, featuring simple daily tools needed by every Muslim. Read the Quran in clean Uthmani script with Tafseer, instant hover translation, and verse-by-verse audio recitation, plus Hisnu Muslim Duas, 99 Names of Allah, and custom Quran cards, Find accurate prayer times with Adhan alerts, Qibla direction, and nearby mosques, Use Zakat and inheritance calculators, a smart Hijri calendar and date converter, Ramadan countdown, Hijri age tracker, and Arabic date stamps.
 - [Quranwbw](https://quranwbw.com/) - Clean easy to use web-app with all the word by word translation, translations, and more. `Web-app`
 - [Translation Comparer, Quranic Arabic Corpus](https://corpus.quran.com/translation.jsp?chapter=2&verse=31) - Shows you seven parallel most popular translations to compare. `Website`
 - [English Only Saheeh International Quran Translation](https://archive.org/details/QuranEngOnlySahihIntlQuranProject.org/mode/2up) - English Translation of the Holy Quran with Surah Introductions and Appendices. `Book`
