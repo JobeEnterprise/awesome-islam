@@ -70,6 +70,7 @@ The links provided on this site are for informational purposes only. They are a 
 - [The Importance of Arabic Language - Nouman Ali Khan](https://www.youtube.com/watch?v=VGMQtAfhC6M) - `Youtube Video`
 - [Why And How To Learn Arabic - Nouman Ali Khan - Bayyinah Institute](https://www.youtube.com/watch?v=eAE3BNkFqDk) - `Youtube Video`
 - [Arabic 101](https://www.youtube.com/@Arabic101/featured) :star2: - Arabic 101 will take you by the hand starting from the alphabet to the intermediate levels. You'll learn how to read, write, speak and even properly listen to Arabic. Through Tajweed lessons you'll also be able to read the Holy Quran properly, in no time. `Youtube Channel`
+- [ILMHUB - The Quran word by word in plain English](https://www.ilmhub.org/quran/word-by-word/) - Free, no signup. The whole Quran in 556 passage pages, each word shown with its meaning, the kind of word it is, and the parts it is made of, alongside a plain-English Arabic grammar reference. `Website`
 
 ## Seerah
 - [Shama'il of Imam Tirmidhi | The Sublime Characteristics of the Prophet SAW - ZamZamAcademy](https://www.youtube.com/playlist?list=PLTgDm4XwxaRLhfvntu9Ku0WlmSkkeKFHR) - `Youtube Playlist`
