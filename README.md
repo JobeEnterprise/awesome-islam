@@ -122,7 +122,8 @@ The links provided on this site are for informational purposes only. They are a 
 - [SeekersGuidance](https://www.youtube.com/@seekersguidanceorg/videos) - `Youtube Channel`
 - [ATA Animation Studio](https://www.youtube.com/@ATAAnimationStudio/playlists) :star2: - Egyptian animation studio, with a lot of movies/shows about the Prophets life ﷺ , Moses A.S, Eisa A.S, Ibrahim A.S, and much more about other aspects. `Youtube Channel`
 
-## Needs Categorization
+- [Islamic Inheritance Calculator](https://islamic-inheritancecalculator.com/) - Free Faraid (Islamic inheritance) calculator with Hanafi, Ahl-e-Hadith, and Shia Ja'fari modes; exact fractional shares, debts/bequest handling, 16 guides.
+ ## Needs Categorization
 - [The Muslim Marriage Guide](https://www.muslim-library.com/dl/books/English_The_Muslim_Marriage_Guide.pdf) - Helpful guide detailing a lot of things to do with married life. `PDF`
 - [Umrah Training](https://www.youtube.com/playlist?list=PLu2sJP0jOreU_EqIfwny2xXSR70xfQ2HU) - Covers the basics of doing Umrah as well as practical tips like what to pack and which documents to bring. `Youtube Playlist`
 - [The Role of Sunnah and Classical Scholarship - Dr. Jonathan Brown](https://www.youtube.com/watch?v=FC6GK5ZroxM) - `Youtube Video`
