@@ -46,6 +46,7 @@ The links provided on this site are for informational purposes only. They are a 
 - [Connect with the Qur'an: A Practical Workshop on How to Read and Memorize](https://www.youtube.com/watch?v=BKdYbwxKndU) - `Youtube Video`
 - [Quranic.](https://www.getquranic.com/) - Quranic teaches the language of the Quran in a fun & interactive way. `iOS` `Android`
 - - [UmmeSaad](https://ummesaad.org) – Free Quran reader with Arabic text, Kanz-ul-Iman Urdu translation, English translation, 13+ languages, audio recitation, prayer times, and Qibla direction. `Web-App` `Android`
+- [Quran Reels](https://quran-reels-tau.vercel.app/) - Free Quran video maker that runs in the browser: turn any ayah into a vertical 1080×1920 reel with 47 reciters, word-by-word highlight and 8 translation languages — no signup, no watermark — plus 32 Islamic tools (prayer times, adhkar, qibla, zakat, group khatma) and a 10,000-article Arabic learning library. `Web-app`
 
 ### Tajweed
 - [Learn Tajweed Easy Step by Step - Yasir Qadhi](https://www.youtube.com/playlist?list=PLSzUb0TgsIYsxT5mMj1KSFDXUEJ3psMCU) - `Youtube Playlist`
