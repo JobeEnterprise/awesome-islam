@@ -101,6 +101,7 @@ The links provided on this site are for informational purposes only. They are a 
 - [Shifa - Al-Qadi Iyyad](https://archive.org/details/BabaTheProphetMuhammadsPrayerDescribedPbuhpdf/Hanken%20-%20Shifa-by-Qadi-Iyadpdf/mode/2up) - `Book`
 
 ## General Resources
+- [SalahTable](https://salahtable.com/) - City prayer-time tables with both Hanafi and Shafi Asr times, calculation methodology, and downloadable 2027 data with reproducible generation code. Calculated times are not mosque iqamah schedules. `Web-App`
 - [EmanChannelTV](https://www.youtube.com/c/EmanChannelTV/search) - `Youtube Channel`
 - [BayyinahTV](https://dream.bayyinahtv.com/) :star2: - If you are sort of trying to Quran on a daily basis, this can be a great place to connect with Quran for learning Arabic Grammar which will eventually open more doors of contemplation! ($112/year or free 1 year student membership, just reach out to them). `Video` `Audio`
 - [Google Drive with Misc. Resources](https://drive.google.com/drive/folders/1GNkwWjJB_nPBl_vCzyg9bpYf-II5sPAH) - `PDF`
