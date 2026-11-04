@@ -20,3 +20,6 @@ Thumbs.db
 # Local audit scratch (keep the dated reports in docs/audits/)
 *.tmp
 *.log
+
+AGENTS.md
+SOP.md
