@@ -37,6 +37,7 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 - [Quran Around The World](https://7awlalaalam.com/quran/) - Free, ad-free Quran website and app: the full Madinah Mushaf, tafsir from six classical works, translations in 40+ languages, verse-by-verse audio, and memorization tools `Website` `Android` `iOS`.
 - [Quran Reels](https://quran-reels-tau.vercel.app/) - Free browser-based Quran video maker: turn any ayah into a vertical reel with 47 reciters, word-by-word highlight, and 8 translation languages, plus prayer times, adhkar, qibla, zakat tools, and an Arabic learning library `Web-App`.
 - [Quran Translation by Sahih International](https://archive.org/details/QuranTranslationBySahihInternational/Quran-A.Y.Ali/mode/2up) - Another English Translation of the Holy Quran `Book`.
+- [Quran.com](https://quran.com/) - Read, listen, and study the Noble Quran with translations, tafsir, word-by-word translation, and recitations. `Website`.
 - [Quran.org](https://quran.org/) - Free Quran apps and digital resources, including reading, listening, and study tools `Website`.
 - [Quranic.](https://www.getquranic.com/) - Quranic teaches the language of the Quran in a fun & interactive way `iOS` `Android`.
 - [Quranwbw](https://quranwbw.com/) - Clean easy to use web-app with all the word by word translation, translations, and more `Web-app`.
@@ -51,6 +52,7 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 - [Tajweed rules books](https://firdawsacademy.com/tajweed-islamic-books-downloads/) - `PDF`.
 
 ## Tafsir
+- [Altafsir.com](https://www.altafsir.com/) - The Royal Aal al-Bayt Institute library of 150+ classical tafsir works with translations and recitations. `Website`.
 - [Fahm al-Quran 2020 By Taimiyyah Zubair](https://www.farhathashmi.com/english-section/tafsir/?giml-id=748) - Audio files with PDF documents going through Ayah by Ayah providing general knowledge and tafsir `PDF` `Audio`.
 - [Quran Translation in 92 Languages, Australian Islamic Library](https://www.australianislamiclibrary.org/tafsir-collection.html) - `PDF`.
 - [Tafheem Ayat](https://www.islamicstudies.info/tafheem.php) - Detailed ayah by ayah explanation `Web-App`.
@@ -61,6 +63,7 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 - [Arabic 101](https://www.youtube.com/@Arabic101/featured) :star2: - A step-by-step course that takes you by the hand starting from the alphabet to the intermediate levels. You'll learn how to read, write, speak and even properly listen to Arabic. Through Tajweed lessons you'll also be able to read the Holy Quran properly, in no time `YouTube Channel`.
 - [ILMHUB - The Quran word by word in plain English](https://www.ilmhub.org/quran/word-by-word/) - Free, no signup. The whole Quran in 556 passage pages, each word shown with its meaning, the kind of word it is, and the parts it is made of, alongside a plain-English Arabic grammar reference `Website`.
 - [Learn Quranic Arabic - Dr. Khalid Zaheer](https://www.youtube.com/playlist?list=PL8OYNJDeWEeHSbrInC4lBOstp3nNid-Yi) - A YouTube playlist `YouTube Playlist`.
+- [Madinah Arabic](https://madinaharabic.com/) - Free Arabic reading and grammar courses based on the Madinah books curriculum, no signup needed. `Website`.
 - [Quran: Why Arabic? - Nouman Ali Khan](https://www.youtube.com/watch?v=g7FcAy3KlbE) - A YouTube video `YouTube Video`.
 - [The Importance of Arabic Language - Nouman Ali Khan](https://www.youtube.com/watch?v=VGMQtAfhC6M) - A YouTube video `YouTube Video`.
 - [Why And How To Learn Arabic - Nouman Ali Khan - Bayyinah Institute](https://www.youtube.com/watch?v=eAE3BNkFqDk) - A YouTube video `YouTube Video`.
@@ -107,6 +110,8 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 - [EmanChannelTV](https://www.youtube.com/c/EmanChannelTV/search) - `YouTube Channel`.
 - [Green Lane Masjid YouTube Channel](https://www.youtube.com/c/greenlanemasjid/search) - `YouTube Channel`.
 - [How to Pray? Step by Step Guide to Prayer | Mohammad AlNaqwi](https://www.youtube.com/watch?v=zalLv2NY98k) - `YouTube Video`.
+- [International Open University (IOU)](https://www.islamiconlineuniversity.com/) - Free Islamic courses and degree programs from an established online university. `Website`.
+- [IslamicFinder](https://www.islamicfinder.org/) - Prayer times, Qibla finder, zakat calculator, Hijri calendar, and a global mosque database. `Website`.
 - [Kaleem Allah S2 - English & French Subtitles - ATA Animation Studio](https://www.youtube.com/playlist?list=PLEbF07nYAB8Ih4flql8pRe7ign2WIhAIQ) - "The events of " Kaleem Allah " Moussa (Peace be upon him) series revolves around the life of the Prophet Moussa (Peace be upon him) From birth until drowned Pharaoh through the entry of Bani of Israel into Egypt and until they left Egypt and drowned Pharaoh and the miracles that were done by Moses peace be upon him. The Series consists of thirty episodes and the duration of each episode twenty minutes." `YouTube Playlist`.
 - [Omar TV Show](https://www.youtube.com/watch?v=poiBVJOvNzo&list=PLIvrRN8Vhjt3xg1efr8HKYMdrtC7Uy9sc) - Great way to get a sense of Islam `TV Series`.
 - [Paradigms of Leadership – Abdal Hakim Murad](https://www.youtube.com/playlist?list=PL5pbB3tC5zucaIlc9Fl1xkQNfEFQPp6NS) - A YouTube playlist `YouTube Playlist`.
