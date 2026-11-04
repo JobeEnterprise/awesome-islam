@@ -1,0 +1,8 @@
+# Default owner for all files — adjust the team/user with write access
+* @JobeEnterprise
+/.github/ @JobeEnterprise
+
+README.md @JobeEnterprise
+SOP.md @JobeEnterprise
+contributing.md @JobeEnterprise
+SECURITY.md @JobeEnterprise
