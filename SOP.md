@@ -128,3 +128,11 @@ One suggested resource per PR. No auto-merge, ever. Maintainer verifies domain, 
 - No theology debates in commits/PRs — this is curation, not fatwa.
 - Never claim a link is "virus-free" or "100% safe" — state the checks and score performed.
 - Never merge, push, or change repo settings without explicit owner approval.
+
+## 9. Current state (2026-11-04)
+
+- `gh` auth: **JobeEnterprise**, ADMIN. Branch protection on `main` (1 review + CODEOWNERS) — owner PRs merge via `gh pr merge --admin`.
+- Security: secret scanning + push protection **enabled**; private vulnerability reporting **enabled**; `main` protected. Dependabot/CodeQL off (Markdown-only).
+- Merged: PR #11 (SOP/templates), PR #12 (README refresh), PR #13 (sweep additions). External PRs #8/#9/#10 closed as superseded by #12; issues #6/#7 closed as completed by #12.
+- Contents: 87 unique links; 0 open PRs/issues. `awesome-lint README.md` passes with 0 errors (run with `GITHUB_TOKEN=$(gh auth token)` — unauthenticated runs miss the `awesome` topic).
+- Pending README work (not done): none blocking. License is MIT; CC0 change needs owner decision.
