@@ -1,0 +1,22 @@
+# Secrets and local files — never commit
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+credentials.json
+secrets.json
+*.p12
+*.pfx
+.npmrc
+.pypirc
+.netrc
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Local audit scratch (keep the dated reports in docs/audits/)
+*.tmp
+*.log
