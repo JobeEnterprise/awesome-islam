@@ -61,6 +61,7 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 
 ## Arabic
 - [Arabic 101](https://www.youtube.com/@Arabic101/featured) :star2: - A step-by-step course that takes you by the hand starting from the alphabet to the intermediate levels. You'll learn how to read, write, speak and even properly listen to Arabic. Through Tajweed lessons you'll also be able to read the Holy Quran properly, in no time `YouTube Channel`.
+- [Fiʿl - Quranic Arabic verbs, words and roots](https://jasminguberinic.github.io/quran-verbs/) - Free, no signup, no ads. The 600 most frequent Quranic verbs with full conjugation tables and every form the Quran uses, plus nouns, particles, near-synonyms, roots and the vocabulary of all 114 surahs, each with ayat, audio and exercises, in English, Bosnian and six more languages. `Website`
 - [ILMHUB - The Quran word by word in plain English](https://www.ilmhub.org/quran/word-by-word/) - Free, no signup. The whole Quran in 556 passage pages, each word shown with its meaning, the kind of word it is, and the parts it is made of, alongside a plain-English Arabic grammar reference `Website`.
 - [Learn Quranic Arabic - Dr. Khalid Zaheer](https://www.youtube.com/playlist?list=PL8OYNJDeWEeHSbrInC4lBOstp3nNid-Yi) - A YouTube playlist `YouTube Playlist`.
 - [Madinah Arabic](https://madinaharabic.com/) - Free Arabic reading and grammar courses based on the Madinah books curriculum, no signup needed. `Website`.
