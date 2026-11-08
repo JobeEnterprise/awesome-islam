@@ -20,4 +20,4 @@ If private vulnerability reporting is unavailable (not yet enabled), do not post
 
 ## Scope
 
-In scope: repository content (README links/descriptions), maintainer workflows, and any future CI. Out of scope: the content of third-party sites linked from this list (report those to the site owner), and social-engineering attacks against maintainers.
+In scope: repository content (README links/descriptions), maintainer workflows, and any future CI. Content-integrity reports are in scope when a listing presents AI-generated content as scholar-reviewed, misattributes religious authority, or makes an authenticity claim without evidence — report privately with the affected README link. Out of scope: the content of third-party sites linked from this list (report those to the site owner), and social-engineering attacks against maintainers.

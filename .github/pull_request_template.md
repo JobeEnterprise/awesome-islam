@@ -16,6 +16,15 @@
 - [ ] Format: `- [Name](url) - Description ending with a period. \`Tag\``
 - [ ] No duplicate (canonical URL checked)
 
+## Provenance & AI disclosure
+
+- **AI-generated/assisted/translated?** Yes/No — disclosure source URL:
+- **Scholar reviewer (name + credentials + scope):** None / [details]
+- **Author/owner:** [who]
+- **I am the author/owner/affiliate?** Yes/No
+- **Authority basis (link):** [credential/affiliation/publication link or None]
+
 ## Audit row
 
-<!-- Paste the link-audit CSV row for each added link. -->
+<!-- Paste the complete audit CSV row AND the §4 evidence below. -->
+**Evidence (required):** final URL, host/title, Safe Browsing result + date, authority basis link, AI disclosure link (or `none`), self-submission declaration.
