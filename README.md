@@ -28,6 +28,7 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 
 
 ## Quran
+- [Al Quran (appquran.com)](https://appquran.com) - Free, open-source (MIT) Quran web app to read by surah, juz or page with translations, word-by-word translation, tafsir, audio recitation, search and bookmarks; installable as a PWA, in English, Bangla, Urdu, Hindi and Arabic. `Website`
 - [Al Quran (Tafsir & by Word)](https://gtaf.org/apps/quran/) - Quran app with Word by Word Translation, translations & tafsirs, and colour-coded tajweed, audio, corpus, khitmah planner `iOS` `Android`.
 - [Connect with the Qur'an: A Practical Workshop on How to Read and Memorize](https://www.youtube.com/watch?v=BKdYbwxKndU) - `YouTube Video`.
 - [English Only Saheeh International Quran Translation](https://archive.org/details/QuranEngOnlySahihIntlQuranProject.org/mode/2up) - English Translation of the Holy Quran with Surah Introductions and Appendices `Book`.
