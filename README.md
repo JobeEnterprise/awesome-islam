@@ -101,6 +101,7 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 - [Verifying and Understanding Hadith - Dr. Jonathan Brown](https://www.youtube.com/watch?v=heitI0S9BCo) - A YouTube video `YouTube Video`.
 
 ## General Resources
+- [ArabSkyPedia Prayer Times](https://arabskypedia.com/prayer-times/) - Daily prayer times and monthly tables for Arab cities, each country calculated with its official authority's method, with the Hijri date. `Website`.
 - [ATA Animation Studio](https://www.youtube.com/@ATAAnimationStudio/playlists) :star2: - Egyptian animation studio, with a lot of movies/shows about the Prophets life ﷺ , Moses A.S, Eisa A.S, Ibrahim A.S, and much more about other aspects `YouTube Channel`.
 - [Australian Islamic Library](https://www.australianislamiclibrary.org/history.html) - Great resource for a lot of things `Book` `Media`.
 - [BayyinahTV](https://dream.bayyinahtv.com/) :star2: - If you are sort of trying to Quran on a daily basis, this can be a great place to connect with Quran for learning Arabic Grammar which will eventually open more doors of contemplation! ($112/year or free 1 year student membership, just reach out to them) `Video` `Audio`.
