@@ -117,6 +117,7 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 - [Paradigms of Leadership – Abdal Hakim Murad](https://www.youtube.com/playlist?list=PL5pbB3tC5zucaIlc9Fl1xkQNfEFQPp6NS) - A YouTube playlist `YouTube Playlist`.
 - [QuranReflect](https://quranreflect.com/) - Connecting with the Quran through other means `Website`.
 - [SalahTable](https://salahtable.com/) - City prayer-time tables with Hanafi and Shafi asr times, calculation methodology, and downloadable data `Web-App`.
+- [Salah Launcher](https://abdok30303-coder.github.io/apl-plus-musalla/) - Free, open-source launcher for Samsung Smart TVs (Tizen): prayer times and Hijri date on the home screen, offline Hafs mushaf, tafsir, and Quran radio. Fork of Knikt's APL Launcher `Samsung TV`.
 - [SeekersGuidance](https://www.youtube.com/@seekersguidanceorg/videos) - `YouTube Channel`.
 - [Story Of Abu Bakr Siddique (RadiAllahu anhu!) - Shaykh Hamza Yusuf](https://www.youtube.com/watch?v=Ycy4voo8Qmw) - A YouTube video `YouTube Video`.
 - [Tadabbur PDF](https://lifewithallah.com/wp-content/uploads/2022/03/Tadabbur-Reflecting-Upon-the-Quran-by-Life-With-Allah.pdf) - Wonderful short PDF explaining contemplation `PDF`.
@@ -146,6 +147,7 @@ Photo by <a href="https://unsplash.com/de/@saj_shafique?utm_source=unsplash&utm_
 | `Website` / `Web-App`                                    | Browser site or web app                 |
 | `YouTube Channel` / `YouTube Playlist` / `YouTube Video` | YouTube content                         |
 | `iOS` / `Android`                                        | Native app available                    |
+| `Samsung TV`                                             | Samsung Smart TV (Tizen) app            |
 | `Podcast` / `TV Series` / `Video` / `Web Series`         | Other media formats                     |
 
 ## Contributing
